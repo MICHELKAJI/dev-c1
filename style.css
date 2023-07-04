@@ -150,3 +150,8 @@ button {
     width: 45%;
   }
 }
+.logo-container:hover{
+  background-color: #caf0f8;
+  opacity: 0.1;
+  box-shadow: #111 4px 2px 1px;
+}
